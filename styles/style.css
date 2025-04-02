@@ -44,3 +44,12 @@ section{
         display: none;
     }
 }
+.section_title{
+    color: #e9a209;
+    font-size: 1.563rem;
+    
+}
+.section_subtitle{
+    font-size: 2.1875rem;
+
+}
