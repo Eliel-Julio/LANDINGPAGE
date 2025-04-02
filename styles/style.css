@@ -4,6 +4,9 @@
 body{
     background-color: #fff9ea;
 }
+section{
+    padding: 28px 8%;
+}
 .btn_defalt{
     border: none;
     display: flex;
