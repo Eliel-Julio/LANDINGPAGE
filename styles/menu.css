@@ -38,6 +38,15 @@
                 color: #fff9ea;
                 width: 70px;height: 70px;
                 border-radius: 0 37.5px 0 42.5px;
+                &:hover{
+                    color:#434343
+                }
+            }
+            .fav{
+                color: rgb(227, 35, 29);
+                &:hover{
+                    color: rgb(158, 25, 21);
+                }
             }
             .dishe_description{
                 color: #434343;
