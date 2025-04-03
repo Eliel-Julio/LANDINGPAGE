@@ -10,7 +10,10 @@ footer{
             color: #1d1d1d;
             font-weight: 500;
         }
-
+        
+    }
+    img{
+        filter: drop-shadow(0px 8px 5px rgba(0,0,0,0.1));
     }
 }
 @media screen and (max-width: 600px) {
